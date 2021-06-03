@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the Lords and Commons of Parliament assembled at Oxford presented to His Maiesty the day before the recesse : and His Maiesties gracious answer to the same : with His Majesties protestation formerly made in the head of his army, and now againe reprinted at the desire and by the advice of both Houses.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22208</idno><idno type="EEBO-CITATION">12066359</idno>
+  <idno type="VID">196694</idno>
+  <idno type="EEBO-PROQUEST">2248528539</idno>
+  
+            <idno type="STC">Wing E2177</idno>
+            <idno type="OCLC">12066359</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196694)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 236:E44, no 12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the Lords and Commons of Parliament assembled at Oxford presented to His Maiesty the day before the recesse : and His Maiesties gracious answer to the same : with His Majesties protestation formerly made in the head of his army, and now againe reprinted at the desire and by the advice of both Houses.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196694:1"/>
+            <p>THE PETITION OF THE LORDS and COMMONS OF PARLIAMENT Assembled at OXFORD, Presented to His MAIESTY the day before the Recesse.</p>
+            <p>AND HIS MAIESTIES Gracious Answer to the same.</p>
+            <p>With His MAJESTIES Protestation, formerly made in the Head of His Army, and now againe reprinted at the desire, and by the advice of both HOUSES.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="mandate">
+                        <opener>
+                           <signed>CHARLES R.</signed>
+                        </opener>
+                        <p>OUr expresse Pleasure is, That this Petition, with Our An<g ref="char:EOLhyphen"/>swer and Protestation, be read by the Parson, Vicar or Cu<g ref="char:EOLhyphen"/>rate, in every Church and Chappell, within our Kingdome of <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <add>Aprill: 30<seg rend="sup">th</seg>
+                                 </add>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed by His MAJESTIES Command, at the desire of the <hi>Lords</hi> and <hi>Commons</hi> of Parliament Assembled at <hi>Oxford,</hi> By <hi>Leonard Lichfield,</hi> Printer to the Vniversity. 1644.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:196694:2"/>
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_petition">
+            <pb n="1" facs="tcp:196694:2"/>
+            <head>To the KINGS most Excellent MAJESTIE.</head>
+            <head type="sub">The humble Petition of the Lords and Commons of PARLIAMENT Assembled at <hi>Oxford,</hi> according <hi>to Your</hi> MAJESTIES <hi>Proclamation.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EE most humbly acknowledge Your Princely goodnesse in calling us, to receive our Advices for preservation of the Religion, Lawes, and safety of the Kingdom, and to restore it to its former Peace and security; How earnest<g ref="char:EOLhyphen"/>ly we have sought a Peace with Your Majesties most gracious concurrence, doth appeare by the Printed Declaration of our proceedings, touching a Treaty for Peace, wherein we aymed at a free and full convention of Parliament, as the most hopefull way to unite these unhappy divisions; And since that hath beene refused, we have applyed our Advices for supporting your Armies, the visible meanes now left for maintaining our Religion, restoring the Lawes, and pro<g ref="char:EOLhyphen"/>curing the safety of the Kingdome: being assured from Your Majesty You doe and will imploy Your Armies to no other end.</p>
+            <p>And although our selves are most fully satisfied of Your Majesties pi<g ref="char:EOLhyphen"/>ous and just resolutions herein, yet because Feares and Jealousies have beene, and are malitiously scattered amongst Your Subjects, to poyson their affections and corrupt their Loyalty to Your Majesty: There<g ref="char:EOLhyphen"/>fore, to the end we may may be enabled by Your gracious Answer to satisfie all the World, or to leave them unexcusable who wil not be satis<g ref="char:EOLhyphen"/>fied, We doe in all humility present to Your Majesty these Petitions.</p>
+            <p>That Your Majesty will give direction for the re-Printing Your Protestation made in the head of Your Army, and Your other Decla<g ref="char:EOLhyphen"/>rations, wherein Your constant Resolution is declared to maintain and defend the true Reformed Protestant Religion, and that the same may be with more diligence published amongst the People; that so Your Princely Christian zeale and affection to that Religion, and to maintain the same against all Popery, Schisme, and Prophanenesse, may be ma<g ref="char:EOLhyphen"/>nifeestd, and which we beseech Your Majesty upon this our Petition to declare againe to all the World, to the discountenance and suppres<g ref="char:EOLhyphen"/>sion of those scandalls layd upon Your Majesty by those who disturbe our Peace.</p>
+            <pb n="2" facs="tcp:196694:3"/>
+            <p> That when there may be a full and free convention of Parliament, a Nationall Synod may be lawfully called, to advise of some fit meanes for the establishing the Government and Peace of our Church; to whom may be recommended a care for the ease of the tender Consci<g ref="char:EOLhyphen"/>ences of your Protestant Subjects.</p>
+            <p>Touching our Lawes, we cannot aske more of Your Majesty, then to declare and continue Your former Resolutions, to hold and keepe them inviolable and unalterable, but by Act of Parliament.</p>
+            <p>And for avoyding the scandall malitiously Infused into many of Your Subjects, that if Your Majesty prevaile against this Rebellion, You intend not to use the frequent Councell of Parliaments: We humbly Pray and Advise Your Majesty to declare the sincerity of Your Royall heart therein, to satisfie Your seduced Subjects against such false and malitious aspersions.</p>
+            <p>And in respect the present Contributions, Loanes, Taxes, and other Impositions for maintenance of Your Armies, have beene submitted unto as exigences of Warre and necessity, because of this unexampled Rebellion and Invasion: We humbly beseech Your Majesty to Declare, That they shall not be drawne into example, nor continue longer then the present exigence and necessity, nor be at any time mentioned as Presidents. And that for the farther security of Your People, Your Majesty will vouchsafe to promise Your Royall assent to a Law to be made and declared to that purpose in a full and free Convention of Parliament.</p>
+            <p>And that for the present ease and encouragement of those under con<g ref="char:EOLhyphen"/>tributions by contract with Your Majesty, You will be pleased that those contracts may be so observed, t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at Your Subjects may not have just cause of complaint against the Commanders, Governors, Officers, or Souldiers of Your Army, or of or in any Your Garrisons, Castles, or Forts, for taking any Money, Horses, or other Cattell, Provisions or other goods, or any Timber or Woods of any Your Subjects, or Free-Billet, or Free-Quarter in any place where the Contributions and Taxes agreed on are paid; humbly beseeching Your Majesties gracious Care herein, and that the offenders may receive exemplary punish<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Lastly, that Your Majesty will retaine Your pious endeavours to pro<g ref="char:EOLhyphen"/>cure the Peace of this languishing Kingdome, not to be removed or altered by any advantages or prosperous successe.</p>
+         </div>
+         <div type="reply_to_petition">
+            <pb n="3" facs="tcp:196694:3"/>
+            <head>His MAjESTIES Gracious ANSWER to the aforesaid PETITION.</head>
+            <p>AS We shall alwayes acknowledge the great com<g ref="char:EOLhyphen"/>fort and assistance We have received by your Counsels, since your meeting here according to Our Proclamation; so We must give you very particu<g ref="char:EOLhyphen"/>lar Thanks for the Expressions you have made in this Petition, of your Confidence in Us; and for the Care you have therein taken, that all Our good Subjects may receive ample satisfaction in those things, upon which the good and Wel-fare of their Condition so much depends.</p>
+            <p>We have long observed (though not without won<g ref="char:EOLhyphen"/>der) the slye, subtile and groundlesse Insinuation infused and dispersed amongst Our People, by the disturbers of the publique Peace, of Our favouring and countenan<g ref="char:EOLhyphen"/>cing of Poperie: And therefore, as in Our constant visible practice We have, to the utmost of Our Power (and We hope sufficiently) manifested the grosse false<g ref="char:EOLhyphen"/>hood of those Imputations and scandalls, so We have omitted no opportunitie of publishing to all the world the cleare Intentions and Resolutions of Our Soule in that point. We wish from Our heart, That the true Re<g ref="char:EOLhyphen"/>formed Protestant Religion may not receive greater Blemish by the Actions and Practice of these men, then it doth or shall by any Connivence of Ours: We will
+<pb n="4" facs="tcp:196694:4"/> take the best care We can (and We desire your assistance n it) to publish to all Our good Subjects that Our <hi>Protestation,</hi> and those <hi>Declarations</hi> you mention; And We doe assure you, there is not an expression in either of them, for the maintenance and advancement of Our Religion, with which Our heart doth not fully concurre, and in which We shall be so constant, that if it shall not please God to enable Us by Force to defend it, We shall shew Our Affection and Love to it, by dying for it. We may without vanitie say, It hath pleased God to enlighten Our understanding, to discern the cleer Truth of the <hi>Protestant Religion,</hi> in which We have beene borne and bred, from the Mists and Clouds of <hi>Poperie,</hi> the which (if it hath made any growth or progresse of late within the Kingdome, as We hope it hath not) is more beholding to the unchristian rage and furie of these men, then to any connivence or favour of Ours.</p>
+            <p>For a Nationall Synod We have often promised it, and when God shall give so much Peace and quiet to this Kingdome, that Regular and Lawfull Conventions may be esteemed, shall gladly performe that Promise, as the best meanes to re-establish Our Religion, and make up those Breaches which are made; And We shall then willingly recommend unto them a speciall care of the ease of tender Consciences of Our Protestant Subjects, as We have often expressed.</p>
+            <p>For the Lawes of the Land, We can say no more then We have said in that <hi>Protestation</hi> you mention, and We thanke you for being satisfied with it; In which God knowes Our resolution to be so firme and stedfast, that We will give any securitie under Heaven for the observation of it. And as Our greatest desire at this present is, to meet in a full and free Convention of Par<g ref="char:EOLhyphen"/>liament,
+<pb n="5" facs="tcp:196694:4"/> which We are confident would quickly put an end to all these troubles; So, when it shall please God to restore that blessing to Us, We shall value and esteem that Councell, and frequently consult with it, and be advis'd by it▪ as the best meanes to make both King and People truely happy; And We shall then by an Act given wype out the footsteps of those extraordinarie Supplyes, which nothing but this reall visible necessity, which oppresses us all, could have compelled Us to make use of, and which shall never be mentioned or re<g ref="char:EOLhyphen"/>membred by Us, to the least Prejudice of your Rights and Liberties. And in the meane time, We shall leave nothing undone for the observation of particular con<g ref="char:EOLhyphen"/>tracts, and prevention of the disorder and license of the Souldier, which is in Our Power to doe, no particular Person enduring halfe that sadnesse of heart for those Breaches and Pressures, which We Our selfe doe. For the prevention and suppression whereof, We shall pro<g ref="char:EOLhyphen"/>ceed with all Rigour and Severitie.</p>
+            <p>Lastly, As the support and maintenance of the Reli<g ref="char:EOLhyphen"/>gion, Lawes, and Priviledges of Parliament, is (as you well know) the onely Argument of Our defensive Armes; so those being secured, We shall with all ima<g ref="char:EOLhyphen"/>ginable Joy lay downe those Armes; and as you have beene Our Witnesses and Our Assistants in Our earnest desires of Peace, so We promise you, We shall not onely with the same earnestnesse alwaies imbrace it, if it shall be offered, but pursue and presse it upon the least likelyhood or Opportunitie. And this Our Re<g ref="char:EOLhyphen"/>solution, by Gods Blessing, shall never be altered by any Advantages or prosperous Successe.</p>
+         </div>
+         <div type="protestation">
+            <pb n="6" facs="tcp:196694:5"/>
+            <head>HIS MAJESTIES Protestation.</head>
+            <p>
+               <hi>I</hi> Doe Promise in the presence of Almighty God, and as I hope for his blessing and protection, that I will, to the ut<g ref="char:EOLhyphen"/>most of my power, defend and maintaine the true Reformed Protestant Religion, established in the Church of England, and by the Grace of God, in the same will live and dye.</p>
+            <p>I desire to governe by the knowne Lawes of the Land, and that the Liberty and Property of the Subject may be by them preserved, with the same care as my owne just Rights, and if it please God, by his blessing upon this Army raised for my necessary defence, to preserve me from this Rebellion, I doe solemnely and faithfully promise, in the sight of God, to maintaine the just Priviledges and freedome of Parliament, and to governe by the knowne Lawes of the land▪ to my utmost power, and particularly to observe inviolably the lawes consen<g ref="char:EOLhyphen"/>ted to by me this Parliament. In the meane while, if this time of War, and the great necessity and straits I am now driven to, beget a violation of those, I hope it shall be impu<g ref="char:EOLhyphen"/>ted by God and Man to the Authors of this War, and not to me, who have so earnestly laboured for the preservation of the Peace of this Kingdome.</p>
+            <p>When I willingly faile in these particulars, I will expect no aid or reliefe from any man, or protection from Heaven: But in this resolution I hope for the cheerefull assistance of all good men, and am confident of Gods blessing.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
